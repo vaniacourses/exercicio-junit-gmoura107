@@ -1,10 +1,10 @@
-package Calculadora;
+package calculadora;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-public class CalculadoraTest {
+public class CalculadoraTestAula {
 	@Test
 	public void somaTest() {
 		Calculadora calc = new Calculadora();

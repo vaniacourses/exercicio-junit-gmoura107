@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import produto.Produto;
 
-public class CarrinhoTest {
+public class CarrinhoTestAula {
 
     @Test
     public void testQuantidadeItens() {
